@@ -1,7 +1,3 @@
-# Welcome!
-
-This Java template lets you get started quickly with a simple one-page playground.
-
 ```java runnable
 // { autofold
 public class Main {
@@ -18,7 +14,3 @@ System.out.println(message);
 }
 //}
 ```
-
-# Advanced usage
-
-If you want a more complex example (external libraries, viewers...), use the [Advanced Java template](https://tech.io/select-repo/385)
